@@ -17,7 +17,7 @@
     "karma-firefox-launcher": "^0.1.6",
     "karma-jasmine": "^0.3.6",
     "karma-coverage": "^0.5.5",
-    "karma-junit-reporter": "^0.3.4",
+    "karma-junit-reporter": "*",
     "phantomjs-prebuilt":"2.1.4"
     
   },
